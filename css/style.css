@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body img {
+    height: auto;
+    width: 200px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+main{
+    display: flex;
+    margin: 20px;
+    flex-direction: column;
+}
+
+
